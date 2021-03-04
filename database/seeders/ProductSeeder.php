@@ -36,21 +36,14 @@ class ProductSeeder extends Seeder
                 'price'=>'1,699.00',
                 'description'=>('Apple M1 chip with 8‑core CPU, 8-core GPU and 16-core Neural Engine'),
                 'category'=>"Laptop",
-                'gallery'=>"https://hosty.xxx/i/7f4dcda4bbc13cca67360d519608653b5ba6e2ce.jpg",
+                'gallery'=>"https://hosty.xxx/i/028e5001ff546cd152e81915faa7ab83824a7538.jpg",
             ],
             [
                 'name'=>'MacBook Air',
                 'price'=>'1,299.00 ',
                 'description'=>('Apple M1 chip with 8‑core CPU, 7‑core GPU and 16‑core Neural Engine'),
                 'category'=>"Laptop",
-                'gallery'=>"https://hosty.xxx/i/7edef94a021014b06b39e70c0d8d4b9aec60547b.jpg",
-            ],
-            [
-                'name'=>'iPad Air 2020 ',
-                'price'=>'749.00',
-                'description'=>('Enjoy by  using our Products '),
-                'category'=>"iPad",
-                'gallery'=>"https://hosty.xxx/i/fdadbc260ed249ddcb0b89bbac3cb72d0a6cb2d5.jpg",
+                'gallery'=>"https://hosty.xxx/i/8da7a97de7ea7acf6e8f02f4adee993a90168edc.jpg",
             ],
             [
                 'name'=>'iPad Pro ',
@@ -64,7 +57,7 @@ class ProductSeeder extends Seeder
                 'price'=>'14.099',
                 'description'=>(' Display Display 21.5-inch (diagonal) LED-backlit display ·'),
                 'category'=>"iMac",
-                'gallery'=>"https://hosty.xxx/i/eb0a0c437618887519c22b7cab1a336e4a668dd6.jpg",
+                'gallery'=>"https://hosty.xxx/i/49517c55179dc8229cb331b50470a9eaeb302bc9.jpg",
             ]
         ]);
 
